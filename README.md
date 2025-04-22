@@ -10,8 +10,8 @@ To run this project locally, follow these steps:
 git clone https://github.com/gamage729/Food-Del-Web.git
 ### 2. Navigate to the Frontend Folder
 cd Food-Del-Web/frontend
-###3. Install All Dependencies
+### 3. Install All Dependencies
 npm install
-###4. Start the Development Server
+### 4. Start the Development Server
 npm run dev
 
