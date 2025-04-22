@@ -1,6 +1,6 @@
 # Food Delivery Web (Frontend)
 
-This is the frontend of the Food Delivery Web project (80% completed) built with React.js.
+This is the frontend of the Food Delivery Web project (70% completed) built with React.js.
 
 ## Getting Started
 
